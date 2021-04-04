@@ -1,2 +1,2 @@
-# public-themes
+# Public Themes
 All Public UWP Themes By DuoTech
