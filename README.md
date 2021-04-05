@@ -1,2 +1,2 @@
 # Public Themes
-All Public UWP Themes By DuoTech
+All of my UWP themes.
